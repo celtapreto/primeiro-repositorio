@@ -1,6 +1,6 @@
 # primeiro-repositorio
 
-para copiar o código em html
+para copiar o código em HTML:
 
 ---
 <html>
